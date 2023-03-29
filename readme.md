@@ -1,4 +1,4 @@
-###Step to run application locally:
+Step to run application locally:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path
 to folder where you can find 'app.py' file.
